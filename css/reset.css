@@ -58,9 +58,5 @@ input, textarea {
     vertical-align: top;
     border-radius: 0;
     box-sizing: content-box;
-    appearance: none;
-}
-
-button {
-    
+    appearance: none; /* OS 기본 테마 설정 금지 */
 }
